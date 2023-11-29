@@ -1,8 +1,8 @@
-# todo_appliction
+# TODO_APPLICTION
 
 A new Flutter project.
 
-## Getting Started
+## GETTING STARTED
 
 This project is a starting point for a Flutter application.
 
